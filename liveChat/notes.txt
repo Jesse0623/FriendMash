@@ -1,0 +1,52 @@
+1. JSON 
+   javascript object notation
+   convert an object into a string and covert string back to an object.
+2. var person = {}
+   /*Telling JavaScript that I want to create an array of information. 
+     store different things uder on object*/
+   person.name = "John";
+   perosn.age = 23;
+   console.log(person); //console.log(person.age) --> 23
+   /*to see what have stored inside of the object "person"*/
+   --------------------or-------------------------
+   var person = {
+        name:"john", 
+          age:24, 
+          gender:"male"
+   };
+   
+   var mystring = JSON.stringify(person);
+   
+   console.log(mystring);
+
+
+
+ 
+ 3.
+
+/*
+//decode data into an object.
+
+//json_decode(json) = JSON.parse()
+//json_decode(value)=JSON.strinfigy()
+//To acess the data: 
+echo $myobject->gender;
+die;
+//-----------------or------------------
+/* object to array
+$myobject = (array)$myobject;
+echo $myobkect['gender'];
+
+array to object
+  $myobject = (array)$myobject;
+  $myobject = (object)$myobject;
+  echo $myobkect->gender;
+ 
+echo"<pre>";
+print_r($data);
+echo"</pre>";
+*/
+
+
+
+
