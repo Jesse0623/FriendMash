@@ -3,19 +3,20 @@ FriendMash is an iOS application designed to enhance social interactions by allo
 
 ## Features
 Photo Comparison: Users can view two photos of their friends simultaneously and select the one they prefer.
+
 Ranking System: The app maintains a dynamic ranking of friends based on user selections, adding a competitive element to the experience.
+
 User-Friendly Interface: Designed with simplicity in mind, FriendMash offers an intuitive and seamless user experience.
-Installation
+
+## Installation
 To run FriendMash on your local machine, follow these steps:
 
-## Clone the Repository:
-
+Clone the Repository:
 git clone https://github.com/Jesse0623/FriendMash.git
 
 ## Usage
-### Upon launching FriendMash:
-
 Login: Authenticate using your preferred method to access your friend list.
+
 Start Comparing: The app will display two photos of your friends side by side.
 
 Make a Choice: Tap on the photo you prefer.
